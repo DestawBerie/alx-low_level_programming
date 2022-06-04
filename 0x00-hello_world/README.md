@@ -1,1 +1,1 @@
-c programing course part one
+echo 'c programing course part one'
